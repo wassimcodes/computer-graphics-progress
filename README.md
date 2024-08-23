@@ -13,5 +13,6 @@
 |Resource|Progress|
 |---|---|
 |[Learn OpenGL: Learn OpenGL](https://learnopengl.com)|⏳|
+|[Youtube: Introduction to OpenGL](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox)|⏳|
 
 
