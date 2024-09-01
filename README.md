@@ -15,4 +15,7 @@
 |[Learn OpenGL: Learn OpenGL](https://learnopengl.com)|⏳|
 |[Youtube: Introduction to OpenGL](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox)|⏳|
 
-
+### SDL2
+|Resource|Progress|
+|---|---|
+|[C++/SDL2 RPG Platformer Tutorial for Beginners](https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS)|✅|
